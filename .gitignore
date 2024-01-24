@@ -1,0 +1,28 @@
+# Node.js dependencies
+node_modules/
+
+# Output and video folders
+/output/
+/video/
+
+# Ignore operating system related files
+.DS_Store
+Thumbs.db
+
+# Ignore logs
+logs
+*.log
+npm-debug.log*
+
+# Ignore the npm debug log file
+npm-debug.log
+
+# Ignore IDE/Editor folders
+.idea
+.vscode
+
+# Ignore user-specific config files
+.config/
+
+# Ignore JJMPEG and TwitchDownloader executables
+*.exe
