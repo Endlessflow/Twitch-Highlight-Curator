@@ -1,4 +1,5 @@
 # Twitch Chat Analyzer and Clip Compiler
+A Twich VOD analyzer that attempts to generate a stream highlight compilation.
 
 ## Description
 This Node.js script is designed for educational purposes as part of a personal project. It automates the process of downloading, parsing, and analyzing Twitch VOD chat logs. Key features include:
